@@ -1,0 +1,11 @@
+*{
+  background-color: rgb(12, 12, 65);
+  /* color somente para visualização durante o desenvolvimento */
+}
+
+canvas {
+    position: absolute;
+    top: 100;
+    left: 0;
+  }
+  
