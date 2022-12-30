@@ -11,7 +11,7 @@ A principal mudança do HTML4 para o HTML5 é com relação a semantica das estr
 
 ## Estruta do HTML.
 
- <img src="https://user-images.githubusercontent.com/6175226/210110149-7ecbb65b-6242-409a-807b-ed16acf91a9c.jpg" width="60" align="">
+ <img src="https://user-images.githubusercontent.com/6175226/210110149-7ecbb65b-6242-409a-807b-ed16acf91a9c.jpg" width="600" align="">
 
 ## Semantica para tecnicas de Scraping
 
