@@ -5,7 +5,7 @@
 - estrutura de HTML para tecnicas de Crauling e Scraping ( video abordado por Mario Souto https://www.youtube.com/watch?v=Ltdp9-ZTAzM)
 
 # As principais mudanças e suas semanticas.
-## Semantica. 
+## Semantica
 
 A principal mudança do HTML4 para o HTML5 é com relação a semantica
 
