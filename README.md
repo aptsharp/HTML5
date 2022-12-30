@@ -19,6 +19,40 @@ A melhor construção para paginas HTML serem melhor ranqueadas em mecanismos de
 
 Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parate do site é apresentado em seu respectivo lugar utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```
 
+## header
+
+Header é a tag responsavel pelo titulo da pagina pagina e as primeiras impressões que o usuario ira ter da pagina ao entrar, recomendavel que fique no topo da pagina ao costruir o HTML
+
+## nav
+
+Nav, responsavel pelo links de navegação dentro da pagina com link's ancora que no caso de um SPA pode levar para diversos lugares dentro de uma mesma pagina, ou links que ter forte relação com o contexto da pagina visitada, geralmente fica no topo da pagina a baixo do header
+
+## main
+
+Main, so permite uma vez por cada arquivo HTML sempre o responsavel por englobar todas as as outras tags, é como se fosse uma tag mãe de todas as outras.
+
+## section
+
+Section é responsavel por uma seção generica do contexto apresentado na pagina, podendo ter em alguns casos uma apresentação breve do que se trata a pagina.
+
+## article
+
+Article é a tag onde ira ficar o conteudo principal da pagina, o melhor layoute é no centro da pagina, tendo ao seu lado esquedo as informações do section e ao seu lado direito os links externos do aside.
+
+## aside
+
+Aside é responsavel por links externos que tenham ou não a ver com o conteudo apresentado na pagina ( na tag article ), é fortemente recomendavel que fique na pagina ao lado direito.
+
+## footer
+
+Footer, é responsavel por informações de contato e assinatura da pagina, pode conter alguns links no contexto da empresa que sedia a pagina, não necessariamente os links que estão nessa tag tem a ver com o contexto do conteudo apresentado no article.
+
+# Exibição de uma pagina comercial nesses moldes.
+
+link da pagina: https://pptr.dev/
+
+![asdf](https://user-images.githubusercontent.com/6175226/210113744-b5c86ba2-6755-43b3-a26c-2ddbaa24ad88.png)
+
 # Sobre o projeto
 Este projeto foi feito com o intuito de fazer uma reciclagem de conhecimento neste projeto não fui usado nenhum .css ou .js, __APENAS HTML__ para apresentção da nova semantica.
 
