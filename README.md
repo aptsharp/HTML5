@@ -17,7 +17,7 @@ A principal mudança do HTML4 para o HTML5 é com relação a semantica das estr
 
 A melhor construção para paginas HTML serem melhor ranqueadas em mecanismos de buscas é a estrutura apresentada na imagem acima.
 
-Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parate do site é apresentado em seu respectivo lugar utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```
+Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parate do site é apresentado em seu respectivo lugar utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```, ```<canvas>```
 
 ## header
 
@@ -46,6 +46,11 @@ Aside é responsavel por links externos que tenham ou não a ver com o conteudo 
 ## footer
 
 Footer, é responsavel por informações de contato e assinatura da pagina, pode conter alguns links no contexto da empresa que sedia a pagina, não necessariamente os links que estão nessa tag tem a ver com o contexto do conteudo apresentado no article.
+
+## canvas
+
+Canvas, particularmente a tab mais divertida do HTML5, o canvas nasceu com o proposito de subistituir muitas as implementações do antigo Flash ( que atualmente é uma tecnologia considerada obsoleta para fins comerciais ), tentodo inumeras possibilidades de crição de graficos, jogos, diferentes tipos de apresentações, podendo ser unido a programação JS ou qualquer outra linguagem suportada por um navegador abrindo inumeras possibilidades para crição de modelos de implentação e exibição para usuarios. 
+
 
 # Exibição de uma pagina comercial nesses moldes.
 
