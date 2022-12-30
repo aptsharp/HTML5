@@ -13,7 +13,11 @@ A principal mudança do HTML4 para o HTML5 é com relação a semantica das estr
 
  <img src="https://user-images.githubusercontent.com/6175226/210110149-7ecbb65b-6242-409a-807b-ed16acf91a9c.jpg" width="60" align="">
 
+## Semantica para tecnicas de Scraping
 
+A melhor construção para paginas HTML serem melhor ranqueadas em mecanismos de buscas é a estrutura apresentada na imagem acima.
+
+Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parate do site é apresentado em seu respectivo lugar utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```
 
 # Sobre o projeto
 Este projeto foi feito com o intuito de fazer uma reciclagem de conhecimento neste projeto não fui usado nenhum .css ou .js, __APENAS HTML__ para apresentção da nova semantica.
