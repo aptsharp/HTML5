@@ -9,7 +9,4 @@
 
 A principal mudança do HTML4 para o HTML5 é com relação a semantica
 
-- Qualquer duvida estou a disposição!
-- beijo a todos!
-
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
