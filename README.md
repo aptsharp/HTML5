@@ -1,64 +1,64 @@
 # Projeto feito para reciclagem de conhecimento em HTML5
 ## Objetivo:
-- conhecer novas atualizações em HTML5 e como tem evoluido ao longo dos anos desde o seu lançamento em 2012.
-- conhcer tag de acessibilidade, tornando mais acessivel para pessoas com deficiencia visual e no uso de programas para leitura de tela.
-- estrutura de HTML para tecnicas de Crauling e Scraping ( video abordado por Mario Souto https://www.youtube.com/watch?v=Ltdp9-ZTAzM)
+- Conhecer novas atualizações em HTML5 e como tem evoluído ao longo dos anos desde o seu lançamento em 2012.
+- Conhecer tag de acessibilidade, tornando mais acessível para pessoas com deficiência visual e no uso de programas para leitura de tela.
+- Estrutura de HTML para técnicas de Crawling e Scraping (video abordado por Mario Souto https://www.youtube.com/watch?v=Ltdp9-ZTAzM)
 
-# As principais mudanças e suas semanticas.
-## Semantica
+# As principais mudanças e suas semânticas.
+## Semântica
 
-A principal mudança do HTML4 para o HTML5 é com relação a semantica das estruturas para tecnicas como __WEB SCRAPING__ e __WEB CRAWLER__ que servem para ranqueamente de paginas em paginas de buscas, esta tecnica é conhecidos como __SEO__ (Search Engine Optimization), com tudo a tem muito mais a ver com a estrutura das informações no HLTML do que com logica de programação.
+A principal mudança do HTML4 para o HTML5 é com relação à semântica das estruturas para técnicas como WEB SCRAPING e WEB CRAWLER que servem para ranqueamento de páginas em páginas de buscas, esta técnica são conhecidas como SEO (Search Engine Optimization), com tudo a tem muito mais a ver com a estrutura das informações no HLTML do que com lógica de programação.
 
-## Estruta do HTML.
+## Estrutura do HTML.
 
  <img src="https://user-images.githubusercontent.com/6175226/210110149-7ecbb65b-6242-409a-807b-ed16acf91a9c.jpg" width="600" align="">
 
-## Semantica para tecnicas de Scraping
+## Semântica para técnicas de Scraping
 
-A melhor construção para paginas HTML serem melhor ranqueadas em mecanismos de buscas é a estrutura apresentada na imagem acima.
+A melhor construção para páginas HTML serem melhor ranqueadas em mecanismos de buscas é a estrutura apresentada na imagem acima.
 
-Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parate do site é apresentado em seu respectivo lugar utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```, ```<canvas>```
+Antes as divisões eram feitas por ```<div>``` com o HTML5 isso mudou, agora cada parte do site é apresentado utilizando as novas tag's ```<header>```, ```<nav>```, ```<main>```, ```<section>```, ```<article>```, ```<aside>```, ```<footer>```, ```<canvas>```
 
 ## header
 
-Header é a tag responsavel pelo titulo da pagina pagina e as primeiras impressões que o usuario ira ter da pagina ao entrar, recomendavel que fique no topo da pagina ao costruir o HTML
+Header é a tag responsável pelo título da página e as primeiras impressões que o usuário ira ter da página ao entrar, recomendável que fique no topo da página ao construir o HTML.
 
 ## nav
 
-Nav, responsavel pelo links de navegação dentro da pagina com link's ancora que no caso de um SPA pode levar para diversos lugares dentro de uma mesma pagina, ou links que ter forte relação com o contexto da pagina visitada, geralmente fica no topo da pagina a baixo do header
+Nav, responsável pelo link de navegação dentro da página com links ancora que no caso de um SPA pode levar para diversos lugares numa mesma pagina, ou links que ter forte relação com o contexto da página visitada, geralmente fica no topo da página a baixo do header
 
 ## main
 
-Main, so permite uma vez por cada arquivo HTML sempre o responsavel por englobar todas as as outras tags, é como se fosse uma tag mãe de todas as outras.
+Main, só permite uma vez por cada arquivo HTML sempre o responsável por englobar todas as as outras tags, é como se fosse uma tag mãe de todas as outras.
 
 ## section
 
-Section é responsavel por uma seção generica do contexto apresentado na pagina, podendo ter em alguns casos uma apresentação breve do que se trata a pagina.
+Section é responsável por uma seção genérica do contexto apresentado na página, podendo ter em alguns casos uma apresentação breve do que se trata a página.
 
 ## article
 
-Article é a tag onde ira ficar o conteudo principal da pagina, o melhor layoute é no centro da pagina, tendo ao seu lado esquedo as informações do section e ao seu lado direito os links externos do aside.
+Article é a tag onde ira ficar o conteúdo principal da página, o melhor layout é no centro da página, tendo ao seu lado esquerdo as informações do section e ao seu lado direito os links externos do aside.
 
 ## aside
 
-Aside é responsavel por links externos que tenham ou não a ver com o conteudo apresentado na pagina ( na tag article ), é fortemente recomendavel que fique na pagina ao lado direito.
+Aside é responsável por links externos que tenham ou não a ver com o conteúdo apresentado na página ( na tag article ), é fortemente recomendável que fique na página ao lado direito.
 
 ## footer
 
-Footer, é responsavel por informações de contato e assinatura da pagina, pode conter alguns links no contexto da empresa que sedia a pagina, não necessariamente os links que estão nessa tag tem a ver com o contexto do conteudo apresentado no article.
+Footer, é responsável por informações de contato e assinatura da página, pode conter alguns links no contexto da empresa que sedia a página, não necessariamente os links que estão nessa tag tem a ver com o contexto do conteúdo apresentado no article.
 
 ## canvas
 
-Canvas, particularmente a tab mais divertida do HTML5, o canvas nasceu com o proposito de subistituir muitas as implementações do antigo Flash ( que atualmente é uma tecnologia considerada obsoleta para fins comerciais ), tentodo inumeras possibilidades de crição de graficos, jogos, diferentes tipos de apresentações, podendo ser unido a programação JS ou qualquer outra linguagem suportada por um navegador abrindo inumeras possibilidades para crição de modelos de implentação e exibição para usuarios. 
+Canvas, particularmente a tab mais divertida do HTML5, o canvas nasceu com o proposito de substituir muitas as implementações do antigo Flash ( que atualmente é uma tecnologia considerada obsoleta para fins comerciais ), tendo inúmeras possibilidades de criação de gráficos, jogos, diferentes tipos de apresentações, podendo ser unido a programação JS ou qualquer outra linguagem suportada por um navegador abrindo inúmeras possibilidades para criação de modelos de implementação e exibição para usuários.
 
 
-# Exibição de uma pagina comercial nesses moldes.
+# Exibição de uma página comercial nesses moldes.
 
 link da pagina: https://pptr.dev/
 
 ![asdf](https://user-images.githubusercontent.com/6175226/210113744-b5c86ba2-6755-43b3-a26c-2ddbaa24ad88.png)
 
 # Sobre o projeto
-Este projeto foi feito com o intuito de fazer uma reciclagem de conhecimento neste projeto não fui usado nenhum .css ou .js, __APENAS HTML__ para apresentção da nova semantica.
+Este projeto foi feito com o intuito de fazer uma reciclagem de conhecimento, neste projeto não fui usado nenhum .css ou .js, APENAS HTML para apresentação da nova semântica.
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
