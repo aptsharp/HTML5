@@ -51,7 +51,6 @@ Footer, é responsável por informações de contato e assinatura da página, po
 
 Canvas, particularmente a tab mais divertida do HTML5, o canvas nasceu com o proposito de substituir muitas as implementações do antigo Flash ( que atualmente é uma tecnologia considerada obsoleta para fins comerciais ), tendo inúmeras possibilidades de criação de gráficos, jogos, diferentes tipos de apresentações, podendo ser unido a programação JS ou qualquer outra linguagem suportada por um navegador abrindo inúmeras possibilidades para criação de modelos de implementação e exibição para usuários.
 
-
 # Exibição de uma página comercial nesses moldes.
 
 link da pagina: https://pptr.dev/
